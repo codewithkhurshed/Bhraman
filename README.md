@@ -8,4 +8,4 @@ Users can find nearby hotels, restaurants, ATMs,hospital, Mosque, Hindu Temple, 
 
 
 
-![1642873155293]()
+
