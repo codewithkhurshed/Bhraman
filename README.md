@@ -1,5 +1,5 @@
 # Bhraman
-An social media app for travelers with Landmark Detection feature, nearby places and Travel Diary
+A social media app for travelers with Landmark Detection feature, nearby places and Travel Diary
 Users can find nearby hotels, restaurants, ATMs,hospital, Mosque, Hindu Temple, Church.
 # Technology Used
 Core Java, Android, XML, Cloud Vision API, Places API, Firebase, MySQL, PHP, SQL.
